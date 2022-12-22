@@ -1,6 +1,7 @@
-### Olá! Eu sou o Diego Alisson! ✌️
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+### Olá Mundo! ✌️
+Meu nome é <b>Diego</b>, mas também pode me chamar de Alisson. Sou de Fortaleza-CE, estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Front-End.
 
+Apaixonado por tecnologia, RPG, livros, mangás, cinema e viajar.
 
 <h4>Contato </h4>
 
