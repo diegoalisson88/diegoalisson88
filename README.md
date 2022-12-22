@@ -22,6 +22,6 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 
 <div>
   <a href="https://github.com/diegoalisson88">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegoalisson88&show_icons=true&theme=blue-green"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalisson88&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegoalisson88&show_icons=true&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalisson88&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
