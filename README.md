@@ -2,7 +2,7 @@
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 
 
-<h4>Contato</h4>
+<h4>Contato </h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alisson-7a41b1142/)
 <a href="mailto:diegoalisson.sales@gmail.com?subject=Olá%20Diego%20Alisson"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -18,6 +18,10 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-![Diego Aisson GitHub stats](https://github-readme-stats.vercel.app/api?username=diegoalisson88&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalisson88&layout=compact)](https://github.com/diegoalisson88/github-readme-stats)
+<hr>
 
+<div>
+  <a href="https://github.com/diegoalisson88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoalisson88&show_icons=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalisson88&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
